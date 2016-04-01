@@ -31,7 +31,7 @@ public class ActivatedActivity extends Activity {
         btn = (Button) findViewById(R.id.activated_btn);
 
     }
-
+     //dd
     public void onBackPressed() {
         if (exit) {
             finish(); // finish activity
